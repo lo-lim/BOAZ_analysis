@@ -3,6 +3,6 @@
 - [20Analysis_BASE](https://github.com/lo-lim/20Analysis_BASE) ⛔Secret(Only those in Boaz Analysis) 
 
 ## Mento Mentee study on vacation(2023.1.14~3.3)
-- 1 week: [Chapter3~4(HandsOn-MachineLearning)](https://github.com/lo-lim/BOAZ_analysis/tree/main/Mentor_study/1week)
+- 1 week: [Chapter3,4(HandsOn-MachineLearning)](https://github.com/lo-lim/BOAZ_analysis/tree/main/Mentor_study/1week)
 - 2 week: [Chapter2,4(DeepLearning with PyTorch)](https://github.com/lo-lim/BOAZ_analysis/tree/main/Mentor_study/2week)
 - 3 week: [Chapter5(DeepLearning with PyTorch)](https://github.com/lo-lim/BOAZ_analysis/tree/main/Mentor_study/3week)
